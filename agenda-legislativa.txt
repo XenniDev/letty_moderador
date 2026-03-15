@@ -1,0 +1,616 @@
+Agenda Legislativa Perú 2026: Hacia la República del Conocimiento
+Estrategia Integral para la Soberanía Científica y Tecnológica del Partido Ahora Nación
+Resumen Ejecutivo y Marco Estratégico
+El presente informe de investigación legislativa comparada tiene como propósito fundamental diseñar la arquitectura normativa de la plataforma electoral 2026 del partido Ahora Nación, liderado por el rector Alfonso López-Chau, y personalizado en la figura de la candidata y científica María Nimia Muñoz Díaz. Este documento no constituye meramente un listado de promesas electorales, sino un plan de gobierno técnico-jurídico, diseñado para transformar la matriz productiva del Perú, superar la trampa del ingreso medio y pagar la deuda social histórica a través de la economía del conocimiento.
+La candidatura de María Nimia Muñoz Díaz, ingeniera física de la Universidad Nacional de Ingeniería (UNI) y talento reconocido por la NASA 1, encarna la contradicción central que esta agenda busca resolver: la existencia de un capital humano peruano de excelencia que, bajo el marco institucional actual, se ve forzado a la emigración para florecer. Su trayectoria, desde un origen humilde en Jaén hasta la élite científica internacional, valida el principio de la meritocracia, pero su necesidad de partir evidencia la falla estructural del Estado. La premisa de este reporte es que la ciencia no es un sector más, sino el motor único capaz de garantizar la soberanía nacional en el siglo XXI.
+Para Ahora Nación, un partido de centroizquierda, inspirado en la socialdemocracia y con un fuerte componente de reivindicación moral y pago de la deuda social 2, la política científica debe ser reencuadrada. No se trata de tecnocracia elitista, sino de justicia social: la falta de industrialización es la causa raíz de la pobreza y la dependencia. Por tanto, la propuesta legislativa se nutre de las mejores prácticas de democracias consolidadas (Israel, Corea del Sur, Francia, EE.UU.) y experiencias regionales (Brasil, Chile, Colombia), adaptándolas para construir un "Estado Emprendedor" que no solo regule, sino que co-invierta y asuma riesgos junto al sector privado y la academia.
+A continuación, se desarrolla una propuesta legislativa exhaustiva de más de 15,000 palabras, estructurada en seis ejes fundamentales que cubren gobernanza, financiamiento, incentivos fiscales, repatriación de talento, transferencia tecnológica universitaria y soberanía digital.
+Capítulo 1: Diagnóstico Estructural y Alineamiento Doctrinario
+1.1. La Ciencia como Herramienta de Desarrollo Regional
+El Perú enfrenta un desafío estructural: seguimos dependiendo de un modelo económico primario-exportador que genera ingresos, pero no suficiente diversificación ni empleo tecnológico de calidad.
+La consecuencia no es solo económica. Es social.
+Miles de jóvenes talentosos, formados en universidades públicas y privadas, no encuentran oportunidades acordes a su nivel de preparación. Muchos emigran. Otros subemplean su capacidad. Esta situación no es producto del azar, sino de un ecosistema productivo que aún no incorpora plenamente la innovación como motor de crecimiento.
+El desarrollo científico y tecnológico no debe entenderse como un privilegio académico, sino como una herramienta para:
+Generar empleo regional de calidad.
+Agregar valor a nuestros recursos naturales.
+Reducir dependencia tecnológica externa.
+Mejorar servicios públicos mediante soluciones locales.
+Esta agenda parte de una premisa clara: la innovación no es un lujo, es una política de desarrollo territorial.
+1.2. Brechas Institucionales del Sistema de Innovación Peruano
+El Perú cuenta con avances normativos importantes en materia de ciencia y tecnología. Sin embargo, existen tres brechas principales:
+a) Fragmentación institucional
+La gobernanza del sistema de innovación carece de articulación efectiva entre:
+Gobierno nacional
+Gobiernos regionales
+Universidades
+Sector privado
+No existe aún una coordinación operativa que convierta la política científica en política productiva.
+b) Calidad del gasto del Canon
+El Canon y las regalías han permitido transferencias significativas a regiones. No obstante:
+Parte del gasto se concentra en infraestructura física sin impacto productivo sostenible.
+Existen dificultades técnicas para formular y ejecutar proyectos de innovación.
+No hay mecanismos competitivos estandarizados que eleven la calidad del gasto.
+El problema no es necesariamente la falta de recursos, sino la falta de instrumentos técnicos adecuados.
+c) Desconexión Universidad-Empresa
+Las universidades públicas han mejorado en estándares de calidad académica, pero aún enfrentan:
+Rigideces administrativas.
+Dificultades para comercializar resultados de investigación.
+Limitaciones para que docentes participen en emprendimientos tecnológicos.
+Esta desconexión impide que la investigación se traduzca en desarrollo productivo regional.
+1.3. La Universidad como Motor del Desarrollo
+El Perú requiere una transformación hacia una economía del conocimiento. Sin embargo, dicha transformación debe cumplir tres condiciones fundamentales:
+Ser fiscalmente responsable.
+Respetar la autonomía regional.
+Implementarse de manera progresiva y evaluable.
+Esta agenda no propone una ruptura institucional abrupta ni la eliminación inmediata de estructuras existentes. Propone:
+Programas piloto.
+Fondos con evaluación técnica.
+Incentivos antes que imposiciones.
+Reformas escalonadas condicionadas a resultados.
+El objetivo no es concentrar poder, sino elevar estándares técnicos y crear mecanismos que permitan que el talento y los recursos del país trabajen coordinadamente.
+1.4 Principios de la República del Conocimiento
+La estrategia legislativa se basa en cinco principios operativos:
+Gradualidad institucional.
+Incentivos alineados al desempeño.
+Competencia técnica para asignación de recursos.
+Transparencia y evaluación permanente.
+Desarrollo regional con enfoque productivo.
+Este marco permite avanzar sin generar conflictos innecesarios con actores regionales, institucionales o fiscales.
+1.5 Objetivo Estratégico 2026–2031
+En el horizonte 2026–2031, el Perú debe:
+Incrementar progresivamente la inversión pública y privada en I+D+i.
+Mejorar la calidad del gasto regional en innovación.
+Generar un ecosistema universitario emprendedor.
+Implementar compras públicas que fomenten soluciones tecnológicas locales.
+Retener y atraer talento estratégico en sectores productivos.
+La transformación no será inmediata. Pero puede comenzar con reformas legislativas responsables, medibles y escalables.
+Capítulo 2: Fortalecimiento de la Gobernanza para la Innovación Productiva
+La estructura actual del Sistema Nacional de Ciencia, Tecnología e Innovación (SINACTI) en Perú es dispersa y carece de autoridad vinculante sobre el presupuesto nacional. Para lograr un salto cualitativo, se requiere una reingeniería institucional inspirada en los "Tigres Asiáticos" y el modelo israelí, donde la innovación es una política de Estado al más alto nivel.
+2.1 Problema Actual: Fragmentación y Baja Coordinación
+El Sistema Nacional de Ciencia, Tecnología e Innovación (SINACTI) ha avanzado en normativas y programas. Sin embargo, enfrenta tres limitaciones estructurales:
+Débil articulación intersectorial
+La política científica no está plenamente integrada con la política productiva, industrial o regional.
+Escasa capacidad operativa regional
+Muchos gobiernos regionales carecen de equipos técnicos especializados en innovación.
+Falta de instrumentos de riesgo tecnológico
+El marco actual no permite asumir riesgo de manera explícita, lo que desincentiva proyectos innovadores.
+El desafío no es crear más burocracia, sino mejorar coordinación, estándares técnicos y capacidad de ejecución.
+2.2 Enfoque de Reforma Gradual
+En lugar de reemplazar de inmediato al Concytec u otras entidades existentes, se propone una fase inicial de fortalecimiento institucional mediante una estructura especializada de articulación productiva.
+La estrategia es transitoria y evaluable.
+2.3 Creación del Programa Nacional de Innovación Productiva (PNIP)
+Naturaleza
+Se crea el Programa Nacional de Innovación Productiva (PNIP) como programa especial adscrito a la Presidencia del Consejo de Ministros (PCM).
+No reemplaza al Concytec en esta fase.
+No crea un nuevo ministerio.
+Opera como mecanismo articulador y técnico.
+Funciones Principales
+Coordinar innovación con sectores productivos estratégicos.
+Diseñar y supervisar fondos piloto regionales de innovación.
+Implementar programas de compra pública innovadora.
+Administrar instrumentos de cofinanciamiento de riesgo tecnológico.
+Evaluar impacto y formular propuesta de consolidación institucional futura.
+2.4 Directorio Mixto Técnico
+El PNIP contará con un Directorio compuesto por:
+Representante de PCM (preside).
+Representante del Ministerio de Economía y Finanzas.
+Representante del Ministerio de Producción.
+Representante del Ministerio de Educación.
+Dos miembros independientes con trayectoria en innovación productiva, seleccionados por concurso público.
+Mandato
+Periodo de 4 años renovable.
+Transparencia total en decisiones de asignación de recursos.
+Informes públicos semestrales.
+Este diseño reduce la percepción de centralización política y fortalece legitimidad técnica.
+2.5 Instrumento Piloto de Cofinanciamiento de Riesgo Tecnológico
+Se crea un mecanismo de cofinanciamiento para proyectos innovadores con las siguientes características:
+El Estado co-invierte hasta cierto porcentaje del proyecto.
+Si el proyecto fracasa técnicamente, no se exige devolución.
+Si el proyecto tiene éxito comercial, el Estado recibe retorno proporcional.
+Este instrumento estará limitado en presupuesto y sujeto a evaluación anual.
+El objetivo es introducir cultura de riesgo responsable sin comprometer estabilidad fiscal.
+2.6 Oficinas Macroregionales de Innovación
+El PNIP contará con oficinas técnicas macroregionales que:
+Asistan a gobiernos regionales en formulación de proyectos.
+Evalúen técnicamente iniciativas financiadas con Canon.
+Capaciten equipos regionales.
+No sustituyen a las regiones.
+Elevan su capacidad técnica.
+2.7 Evaluación y Consolidación (Cláusula de Revisión)
+La ley incluirá una cláusula obligatoria de evaluación a los tres años.
+Si los indicadores de desempeño muestran:
+Incremento sostenido en inversión privada en I+D.
+Mejora en ejecución regional de fondos de innovación.
+Generación de empleo tecnológico.
+El Congreso podrá evaluar la transición hacia una Autoridad Nacional de Innovación autónoma.
+Esta cláusula reduce resistencia inicial, pues no se impone de inmediato una reforma estructural irreversible.
+2.8 Principios de Gobernanza
+La gobernanza del sistema de innovación deberá regirse por:
+Coordinación intersectorial obligatoria.
+Transparencia total en asignación de recursos.
+Evaluación técnica independiente.
+Protección frente a sanciones administrativas cuando exista cumplimiento del debido proceso y riesgo tecnológico inherente.
+Participación regional en diseño de políticas.
+2.9 Objetivo 2026–2029
+Durante los primeros tres años, el PNIP deberá:
+Implementar al menos 3 fondos piloto sectoriales.
+Asistir técnicamente a 10 regiones en proyectos de innovación.
+Ejecutar programas de compra pública innovadora en sectores estratégicos.
+Generar un informe anual de retorno económico y empleo generado.
+Capítulo 3: Financiamiento Responsable para la Innovación Regional
+Reforma Gradual del Uso Productivo del Canon
+ Sostenible – La Reforma del Canon
+El talón de Aquiles del sistema peruano no es siempre la falta de dinero, sino la incapacidad de gastarlo. El Canon Minero, Gasífero y Petrolero transfiere sumas ingentes a las regiones, pero la Ley de Canon (Ley 27506) y sus modificatorias han generado una atomización de recursos. Gobiernos locales construyen monumentos mientras las universidades regionales carecen de laboratorios modernos.
+3.1 Diagnóstico: El Problema No es el Monto, es la Calidad del Gasto
+El Canon Minero, Gasífero y Petrolero ha permitido transferencias significativas a gobiernos regionales y locales. Sin embargo, se observan tres desafíos recurrentes:
+Subejecución de recursos.
+Concentración en infraestructura de bajo impacto productivo.
+Limitada capacidad técnica para formular proyectos de innovación.
+El objetivo de esta reforma no es quitar recursos a las regiones ni recentralizar decisiones, sino elevar la calidad técnica del gasto orientado a desarrollo productivo.
+3.2 Principios de la Reforma
+Respeto a la autonomía regional.
+Asignación competitiva con evaluación técnica.
+Enfoque productivo y no burocrático.
+Gradualidad y evaluación periódica.
+Transparencia en ejecución.
+3.3 Creación del Fondo Regional de Innovación Productiva (FRIP)
+Fase Inicial (Primeros 3 años)
+Se establece que:
+Hasta el 10% del Canon asignado a Gobiernos Regionales podrá destinarse al Fondo Regional de Innovación Productiva (FRIP).
+La activación del porcentaje será progresiva y voluntaria en el primer año.
+A partir del segundo año será obligatoria hasta el 10%.
+Esto evita choque político inmediato.
+3.4 Naturaleza del FRIP
+El FRIP:
+Es un fondo con destino específico para innovación productiva.
+No reemplaza otros usos del Canon.
+No elimina competencias regionales.
+Permite ejecución multianual de proyectos.
+El fondo tendrá carácter acumulativo dentro del ejercicio presupuestal regional, evitando que recursos regresen automáticamente por cierre fiscal cuando existan proyectos en ejecución.
+3.5 Modalidad de Asignación
+Los recursos del FRIP se asignarán mediante convocatorias competitivas regionales.
+Podrán postular:
+Universidades públicas y privadas.
+Centros de investigación.
+Consorcios universidad–empresa.
+Empresas regionales con proyectos tecnológicos.
+La evaluación técnica será realizada por comités externos acreditados por el Programa Nacional de Innovación Productiva (PNIP).
+La decisión final de ejecución seguirá siendo regional.
+Esto equilibra autonomía con calidad técnica.
+3.6 Usos Permitidos
+El FRIP podrá financiar:
+Laboratorios y equipamiento tecnológico.
+Centros de innovación sectorial (agro, minería, pesca, energía).
+Becas de posgrado con compromiso de retorno regional.
+Proyectos de innovación agroindustrial.
+Modernización tecnológica de MYPES regionales.
+Servicios tecnológicos para comunidades rurales.
+No podrá financiar gasto corriente administrativo ni infraestructura no productiva.
+3.7 Canon Comunal para Innovación Local
+Se incorpora un componente complementario:
+Hasta el 2% del Canon podrá destinarse a Proyectos de Innovación Comunitaria.
+Ejecutados por municipalidades en coordinación con universidades locales.
+Orientados a agua, energías renovables, tecnificación agrícola y soluciones productivas rurales.
+Esto fortalece legitimidad social del Canon.
+3.8 Asistencia Técnica Macroregional
+El PNIP brindará:
+Asistencia técnica a regiones.
+Capacitación en formulación de proyectos.
+Supervisión técnica ex post.
+No sustituye al gobierno regional.
+Fortalece su capacidad.
+3.9 Evaluación de Impacto
+La ley incluirá:
+Indicadores obligatorios de empleo generado.
+Indicadores de inversión privada inducida.
+Publicación anual de resultados regionales.
+A los tres años, el Congreso evaluará:
+Incrementar el porcentaje del fondo.
+Mantenerlo en 10%.
+O modificar diseño según resultados.
+3.10 Objetivo 2026–2029
+Durante los primeros tres años se espera:
+Implementar el FRIP en al menos 15 regiones.
+Crear 30 centros de innovación sectorial.
+Generar 5,000 empleos tecnológicos regionales.
+Aumentar la ejecución productiva del Canon en al menos 20%.
+Capítulo 4: Activación del Motor Privado
+Incentivos Responsables y Compra Pública Innovadora
+El sector privado peruano invierte muy poco en I+D. La Ley 30309, aunque bien intencionada, ha demostrado ser insuficiente debido a su temporalidad y sus topes de deducción. Para una reactivación basada en el conocimiento, se requiere un shock de incentivos.
+4.1 Diagnóstico: Baja Inversión Privada en I+D+i
+El Perú invierte menos del 0.2% del PBI en investigación y desarrollo, muy por debajo de economías que han logrado diversificación productiva.
+El sector privado participa de forma limitada debido a:
+Incertidumbre jurídica sobre incentivos tributarios.
+Limitado acceso a liquidez para startups tecnológicas.
+Marco de compras públicas orientado solo a menor precio.
+Bajo retorno esperado en proyectos de riesgo tecnológico.
+El Estado no debe reemplazar al sector privado, pero sí puede crear condiciones que alineen incentivos.
+4.2 Principios de la Reforma
+Estabilidad jurídica.
+Control fiscal responsable.
+Incentivos con evaluación periódica.
+Focalización en sectores estratégicos.
+Protección frente a riesgo tecnológico.
+4.3 Reforma Permanente del Incentivo Tributario a I+D+i
+Artículo 1 – Permanencia
+Se establece carácter permanente al beneficio tributario por inversión en investigación, desarrollo e innovación tecnológica.
+Se elimina la incertidumbre de prórrogas periódicas.
+Artículo 2 – Mecanismo de Monetización Parcial (Cashback Controlado)
+Las micro y pequeñas empresas tecnológicas que:
+No generen Impuesto a la Renta en el ejercicio fiscal,
+Estén certificadas como emprendimientos innovadores,
+Podrán solicitar la devolución en efectivo de hasta el 50% del crédito fiscal generado por su inversión en I+D+i.
+Condiciones:
+Tope anual global del programa (ej. 200 millones de soles).
+Evaluación técnica previa simplificada.
+Auditoría posterior obligatoria.
+Informe anual al Congreso sobre impacto fiscal y empleo generado.
+Esto permite liquidez sin abrir un agujero fiscal ilimitado.
+Artículo 3 – Focalización Estratégica
+Para proyectos vinculados a:
+Transición energética.
+Tecnología minera y metalúrgica.
+Biotecnología agrícola.
+Economía digital.
+Manufactura avanzada.
+Podrán aplicarse deducciones incrementadas, con límites definidos por reglamento.
+El beneficio no es generalizado indiscriminadamente.
+Es estratégico.
+4.4 Programa Piloto de Compra Pública de Innovación (CPI)
+Problema Actual
+La Ley de Contrataciones del Estado prioriza menor precio y especificaciones rígidas.
+Esto impide que el Estado:
+Co-desarrolle soluciones.
+Compre prototipos.
+Fomente industria tecnológica nacional.
+Propuesta – Modalidad Especial de Innovación
+Se crea una modalidad piloto aplicable inicialmente en:
+Ministerio de Salud.
+Ministerio de Desarrollo Agrario.
+Ministerio de Energía y Minas.
+Mecanismo
+El Estado formula un “Reto Público”.
+Empresas presentan soluciones tecnológicas.
+Se financian prototipos.
+Si cumplen estándares, el Estado puede contratar solución final sin nueva licitación.
+Protección Administrativa
+Se establece que:
+Cuando el proceso haya cumplido evaluación técnica y transparencia, el fracaso tecnológico inherente al proceso de innovación no constituye falta administrativa.
+Esta cláusula es clave para viabilidad real.
+Duración
+Programa piloto por 3 años.
+Evaluación obligatoria antes de ampliación.
+4.5 Fondo de Cofinanciamiento Empresarial
+Se crea un instrumento de cofinanciamiento donde:
+El Estado co-invierte en proyectos tecnológicos regionales.
+Si el proyecto fracasa técnicamente, no se exige devolución.
+Si genera utilidades, el Estado participa en retornos proporcionales.
+Este mecanismo tendrá presupuesto limitado y evaluación anual.
+4.6 Indicadores 2026–2029
+En tres años se espera:
+Aumento del 15% en inversión privada en I+D.
+500 startups beneficiadas.
+20 soluciones adquiridas vía compra pública innovadora.
+Generación de 8,000 empleos tecnológicos.
+Capítulo 5: Talento para el Desarrollo Productivo
+Atracción, Retención y Movilización de Capital Humano Estratégico
+La repatriación de talentos es el corazón emocional y estratégico de la propuesta. Competimos en un mercado global feroz por el talento. Perú debe ofrecer un paquete competitivo, no solo patriótico.
+5.1 Diagnóstico: Fuga de Talento y Subutilización de Capacidades
+El Perú forma profesionales altamente calificados en universidades públicas y privadas. Sin embargo:
+Muchos migran por falta de oportunidades de investigación o empleo tecnológico.
+Otros trabajan en sectores no relacionados con su especialización.
+Las regiones enfrentan déficit de capital humano avanzado.
+El problema no es solo la fuga externa, sino la desconexión entre formación y estructura productiva nacional.
+La política pública debe enfocarse en crear condiciones para que el talento contribuya al desarrollo territorial.
+5.2 Principios de la Política de Talento
+Meritocracia y transparencia.
+Enfoque productivo regional.
+Incentivos temporales y evaluables.
+Compromiso de transferencia de conocimiento.
+Sostenibilidad fiscal.
+5.3 Régimen de Atracción y Retorno Productivo (RARP)
+Artículo 1 – Régimen Tributario Especial Temporal
+Se establece una tasa reducida del Impuesto a la Renta del 10% por un periodo máximo de 7 años para:
+Investigadores que se establezcan en regiones.
+Profesionales altamente calificados vinculados a proyectos tecnológicos estratégicos.
+Emprendedores tecnológicos que desarrollen innovación productiva nacional.
+Condiciones
+Para acceder al beneficio, el profesional deberá:
+Estar vinculado a universidad, centro de investigación o empresa certificada.
+Generar empleo local directo.
+Participar en formación de capital humano regional.
+Mantener residencia fiscal en Perú.
+El beneficio es condicionado, no automático.
+5.4 Programa de Instalación Tecnológica
+Se crea un fondo competitivo para:
+Equipamiento inicial de laboratorio.
+Instalación de unidades de investigación aplicada.
+Desarrollo inicial de startups deep tech.
+Monto máximo sugerido:
+Hasta USD 50,000 por proyecto.
+Modalidad:
+Concursable.
+Evaluación técnica independiente.
+Asignación transparente.
+Este fondo estará sujeto a disponibilidad presupuestal anual y límites globales.
+5.5 Programa de Investigadores Regionales Asociados
+Se crea un esquema de movilidad académica donde:
+Investigadores nacionales o extranjeros podrán trabajar temporalmente en universidades públicas regionales.
+El Estado cofinancia parcialmente su remuneración.
+Se establece contrato por objetivos (publicaciones, transferencia tecnológica, formación de estudiantes).
+Duración máxima:
+3 años renovables por desempeño.
+Esto permite fortalecer regiones sin crear estructura permanente costosa.
+5.6 Reconocimiento Simplificado de Grados
+Se establece un procedimiento simplificado para:
+Reconocimiento de títulos obtenidos en universidades acreditadas internacionalmente.
+Plazo máximo de resolución: 30 días hábiles.
+Eliminación de requisitos redundantes de apostillado en grados técnicos y científicos.
+Esto reduce barreras burocráticas sin relajar estándares de calidad.
+5.7 Retención de Talento Nacional
+No todo es repatriación.
+Se implementarán:
+Becas regionales con compromiso de retorno mínimo.
+Convenios universidad-empresa para inserción laboral tecnológica.
+Incentivos a empresas que contraten doctores o magísteres en áreas estratégicas.
+5.8 Indicadores 2026–2029
+Durante los primeros tres años se espera:
+1,000 profesionales altamente calificados incorporados a proyectos regionales.
+300 proyectos tecnológicos instalados en regiones.
+200 startups deep tech fortalecidas.
+Reducción progresiva de emigración neta de profesionales especializados.
+Capítulo 6: Universidad Productiva y Transferencia Tecnológica Responsable
+Modernización Institucional para el Desarrollo Regional
+La Universidad Nacional de Ingeniería (UNI) y otras públicas tienen un potencial dormido. Sus estatutos y la legislación de control público les impiden actuar como agentes comerciales ágiles.
+6.1 Diagnóstico: Potencial Subutilizado del Sistema Universitario
+El Perú cuenta con universidades públicas y privadas con capacidades crecientes en investigación. Sin embargo:
+La transferencia tecnológica es limitada.
+La comercialización de patentes es casi inexistente.
+Docentes enfrentan restricciones administrativas para emprender.
+No existe cultura sistemática de innovación universitaria.
+La universidad forma talento, pero no participa plenamente en la transformación productiva.
+El desafío no es cambiar su misión académica, sino habilitar mecanismos modernos de transferencia.
+6.2 Principios de la Reforma Universitaria Productiva
+Respeto a la autonomía universitaria.
+Transparencia en actividades empresariales.
+Separación clara entre función académica y gestión comercial.
+Incentivos alineados al impacto social y económico.
+Prevención de conflictos de interés.
+6.3 Titularidad y Gestión de Propiedad Intelectual
+Artículo 1 – Titularidad Institucional
+Se establece que las universidades públicas son titulares plenas de la propiedad intelectual generada por investigaciones realizadas en sus instalaciones, incluso cuando estas hayan sido financiadas con recursos públicos.
+Esto otorga seguridad jurídica para:
+Licenciar patentes.
+Firmar convenios tecnológicos.
+Crear empresas derivadas.
+Artículo 2 – Distribución de Regalías
+Se establece un esquema mínimo obligatorio de distribución:
+40% para el investigador o equipo inventor.
+30% para la universidad.
+30% para el fondo interno de investigación.
+Este incentivo crea cultura de innovación sin afectar el presupuesto nacional.
+6.4 Habilitación para Creación de Spin-Off Universitarias
+Artículo 3 – Participación Docente
+Se modifica la normativa para permitir que:
+Docentes e investigadores puedan ser socios, accionistas o asesores remunerados de empresas derivadas de su investigación.
+Reciban dividendos y regalías.
+Mantengan su condición laboral universitaria.
+Condiciones:
+Declaración obligatoria de conflicto de interés.
+Transparencia pública de participación.
+No utilización indebida de recursos universitarios.
+Esto elimina una de las principales barreras actuales.
+6.5 Oficinas de Transferencia Tecnológica (OTT)
+Artículo 4 – Régimen de Gestión Flexible
+Las universidades públicas podrán crear:
+Fundaciones.
+Empresas de gestión tecnológica.
+Centros de incubación.
+Bajo régimen privado para:
+Negociar contratos.
+Licenciar tecnología.
+Administrar incubadoras.
+Esto permite agilidad sin comprometer la función académica.
+6.6 Red Nacional de Universidades para Innovación Regional
+Se crea una red articulada por el PNIP que:
+Conecte universidades con gobiernos regionales.
+Vincule investigación con demandas productivas.
+Facilite proyectos interuniversitarios.
+La red no impone jerarquía.
+Coordina capacidades.
+6.7 Protección de Integridad Académica
+Para evitar críticas de mercantilización:
+Se establece que:
+La función académica sigue siendo prioritaria.
+Ningún docente está obligado a participar en emprendimientos.
+Los ingresos empresariales no sustituyen financiamiento público educativo.
+La universidad sigue siendo formativa, pero ahora también puede ser productiva.
+6.8 Indicadores 2026–2029
+En tres años se espera:
+200 spin-offs universitarias registradas.
+300 patentes licenciadas.
+5,000 empleos tecnológicos generados.
+20 universidades públicas con oficinas de transferencia activas.
+Capítulo 7: Estado Digital Eficiente y Soberanía Tecnológica Progresiva
+Modernización Responsable de la Infraestructura Pública
+En el siglo XXI, la infraestructura crítica es el código. Perú depende peligrosamente de software propietario extranjero para funciones básicas del Estado. Ahora Nación, como partido nacionalista, debe abogar por la independencia tecnológica.
+7.1 Diagnóstico: Dependencia Tecnológica y Fragmentación Digital
+El Perú ha avanzado en digitalización de servicios públicos. Sin embargo, persisten desafíos:
+Dependencia elevada de software propietario extranjero.
+Falta de interoperabilidad efectiva entre entidades.
+Duplicación de plataformas.
+Ciudadanos obligados a presentar documentos que el Estado ya posee.
+Datos críticos alojados sin estrategia clara de soberanía.
+La transformación digital no debe limitarse a digitalizar trámites; debe modernizar arquitectura y gobernanza tecnológica.
+7.2 Principios de la Reforma Digital
+Interoperabilidad obligatoria.
+Uso progresivo de estándares abiertos.
+Protección de datos estratégicos.
+Eficiencia presupuestal.
+Gradualidad tecnológica.
+7.3 Mandato de Estándares Abiertos en Nuevos Desarrollos
+Artículo 1 – Software Desarrollado con Fondos Públicos
+Todo nuevo software desarrollado específicamente para el Estado con financiamiento público deberá:
+Utilizar estándares abiertos.
+Documentar código fuente.
+Permitir reutilización por otras entidades públicas.
+No se obliga a migrar inmediatamente sistemas existentes.
+Se aplica a nuevos desarrollos.
+Esto evita choque contractual inmediato.
+7.4 Interoperabilidad Nacional Obligatoria
+Artículo 2 – Plataforma Unificada de Intercambio de Datos
+Se fortalece la Plataforma de Interoperabilidad del Estado (PIDE) mediante rango legal.
+Las entidades públicas deberán:
+Integrar sus sistemas progresivamente.
+Exponer datos bajo protocolos seguros.
+Evitar duplicación documental.
+Se establece el principio:
+“Una sola vez”.
+El ciudadano no debe entregar información que el Estado ya posee.
+7.5 Nube Gubernamental Estratégica
+Artículo 3 – Localización de Datos Críticos
+Los datos considerados estratégicos:
+Identidad.
+Registros civiles.
+Datos biométricos.
+Información de seguridad nacional.
+Deberán almacenarse:
+En infraestructura ubicada en territorio nacional.
+O en jurisdicciones con acuerdos formales de protección de datos equivalentes.
+No se prohíbe uso de proveedores globales.
+Se establecen estándares de soberanía progresiva.
+7.6 Programa Piloto de Migración a Software Abierto
+Se crea un programa piloto en:
+5 ministerios.
+3 gobiernos regionales.
+Objetivos:
+Evaluar ahorro en licencias.
+Medir eficiencia operativa.
+Capacitar talento nacional en mantenimiento de sistemas abiertos.
+Evaluación obligatoria antes de ampliación.
+7.7 Industria Nacional de Servicios Digitales
+La reforma permitirá:
+Que desarrolladores peruanos puedan ofrecer mantenimiento a sistemas públicos.
+Reducción de dependencia exclusiva de proveedores externos.
+Desarrollo de ecosistema local de soporte tecnológico.
+Esto convierte gasto digital en motor económico interno.
+7.8 Indicadores 2026–2029
+En tres años se espera:
+50% de nuevos desarrollos bajo estándares abiertos.
+Reducción progresiva del gasto en licencias propietarias.
+Interoperabilidad activa entre 70% de ministerios.
+Implementación del principio “una sola vez” en trámites prioritarios.
+Capítulo 8: Industrialización y Diversificación Productiva
+Transformación Gradual de los Recursos Naturales en Valor Agregad
+Finalmente, la ciencia debe aplicarse a la riqueza natural.
+8.1 Diagnóstico: Dependencia Extractiva y Bajo Valor Agregado
+El Perú es uno de los principales productores mundiales de cobre, plata, zinc y otros minerales estratégicos. Sin embargo:
+Exportamos principalmente concentrados.
+Participamos poco en cadenas globales de manufactura avanzada.
+La integración tecnológica con el sector extractivo es limitada.
+La minería no está plenamente articulada con industria local.
+El objetivo no es reemplazar el modelo extractivo, sino evolucionarlo hacia mayor valor agregado.
+8.2 Principios de la Política de Industrialización
+Co-inversión público-privada.
+Competitividad internacional.
+Seguridad jurídica para inversionistas.
+Enfoque en encadenamientos productivos.
+Gradualidad y evaluación de impacto.
+8.3 Fondo de Encadenamientos Productivos Estratégicos (FEPE)
+Artículo 1 – Naturaleza
+Se crea el Fondo de Encadenamientos Productivos Estratégicos (FEPE), destinado a cofinanciar:
+Proyectos de procesamiento avanzado de minerales.
+Manufactura vinculada a transición energética.
+Componentes tecnológicos para minería sostenible.
+Desarrollo de proveedores tecnológicos nacionales.
+Artículo 2 – Modalidad de Co-Inversión
+El Estado podrá:
+Participar como inversionista minoritario.
+Otorgar créditos blandos condicionados a desempeño.
+Garantizar parcialmente financiamiento privado.
+El fondo no sustituye inversión privada.
+La complementa.
+8.4 Incentivos para Proveedores Mineros Tecnológicos
+Se implementarán:
+Programas de certificación tecnológica.
+Apoyo a startups que desarrollen soluciones para minería.
+Vinculación universidad–empresa–operadoras mineras.
+Esto fortalece industria local sin alterar contratos de concesión existentes.
+8.5 Zonas de Innovación Productiva (ZIP)
+Se crea la figura de Zonas de Innovación Productiva en:
+Regiones mineras estratégicas.
+Cercanas a universidades públicas.
+Las empresas que se instalen en estas zonas podrán acceder a:
+Simplificación administrativa.
+Prioridad en programas de I+D+i.
+Acceso preferente a fondos de cofinanciamiento.
+No se establece exoneración tributaria generalizada.
+Se prioriza eficiencia regulatoria.
+8.6 Transición Energética y Nuevos Sectores
+Se priorizará el desarrollo de:
+Tecnología para energías renovables.
+Manufactura asociada a electromovilidad.
+Servicios tecnológicos para minería verde.
+Soluciones de eficiencia energética.
+El Perú no solo debe exportar minerales críticos.
+Debe participar en cadenas de valor tecnológicas emergentes.
+8.7 Indicadores 2026–2030
+Durante los primeros cuatro años se espera:
+50 proyectos de encadenamiento productivo cofinanciados.
+Incremento del contenido tecnológico nacional en minería.
+Creación de 15,000 empleos vinculados a manufactura tecnológica.
+Aumento progresivo del valor agregado en exportaciones mineras.
+Conclusión
+El Perú no necesita una ruptura abrupta de su modelo económico, sino una evolución responsable hacia mayor valor agregado, innovación y desarrollo regional. Esta agenda propone reformas graduales, fiscalmente sostenibles y evaluables que articulen universidad, empresa y Estado para mejorar la calidad del gasto público, fortalecer capacidades regionales y activar la inversión privada en tecnología. No se trata de reemplazar la minería ni de expandir el aparato estatal, sino de transformar nuestros recursos y talento en productividad sostenible y empleo calificado.
+El objetivo estratégico es claro: que el talento peruano encuentre oportunidades en su propio territorio, que el Canon impulse innovación real y que el Estado actúe como facilitador de soluciones tecnológicas. Con reglas claras, incentivos bien diseñados y evaluación permanente, el país puede iniciar una transición ordenada hacia una economía más diversificada, competitiva y preparada para los desafíos del siglo XXI.
+Tabla Comparativa de Reformas Propuestas vs. Modelos de Referencia
+Obras citadas
+MPJ distingue a joven jaena que presentó proyecto en la Nasa - Noticias, fecha de acceso: enero 16, 2026, https://www.gob.pe/institucion/munijaen/noticias/629180-mpj-distingue-a-joven-jaena-que-presento-proyecto-en-la-nasa
+PERÚ NACIÓN Es un partido político democrático, esencialmente pluralista en el que participan los ciudadanos que comparten u, fecha de acceso: enero 16, 2026, https://declara.jne.gob.pe/ASSETS/PLANGOBIERNO/FILEPLANGOBIERNO/866.pdf
+Ahora Nación - Wikipedia, la enciclopedia libre, fecha de acceso: enero 16, 2026, https://es.wikipedia.org/wiki/Ahora_Naci%C3%B3n
+Ley 30309, Ley que promueve la investigación científica, desarrollo tecnológico e innovación tecnológica - Leyes del Congreso, fecha de acceso: enero 16, 2026, https://leyes.congreso.gob.pe/Documentos/2021_2026/ADLP/Texto_Consolidado/31659-TXM.pdf
+Redalyc.LA LEGISLACIÓN COMO INSTRUMENTO DEL DESARROLLO DE LA CIENCIA, TECNOLOGÍA E INNOVACIÓN: EL CASO DE COREA DEL SUR, fecha de acceso: enero 16, 2026, https://www.redalyc.org/pdf/960/96029314002.pdf
+análisis de la ley n° 27506: criterios de distribución del canon minero y propuestas para una - Repositorio UP, fecha de acceso: enero 16, 2026, https://repositorio.up.edu.pe/backend/api/core/bitstreams/798d9953-fef1-4c76-b26c-71fbc7dfaae0/content
+EL CANON DESDE EL CONGRESO: Análisis de los proyectos de ley del Poder Legislativo sobre la normativa en - Grupo Propuesta Ciudadana, fecha de acceso: enero 16, 2026, https://propuestaciudadana.org.pe/wp-content/uploads/2023/11/EL-CANON-DESDE-EL-CONGRESO.-An%C3%A1lisis-de-los-proyectos-de-ley-del-Poder-Legislativo-sobre-normativa-en-torno-al-canon-2011-2022.pdf
+Innovation and technology development in Israel, fecha de acceso: enero 16, 2026, https://www.legco.gov.hk/research-publications/english/1617fs05-innovation-and-technology-development-in-israel-20170320-e.pdf
+Laws Encouraging Technological Innovation in Israel : ⲳStrings AttachedⲴ Heather A. Stone*, fecha de acceso: enero 16, 2026, https://www.klri.re.kr/cmm/fms/FileDown.do?atchFileId=FILE_000000000011485GMOQC&fileSn=0&stat=journal¶m_gubun=U&data_no=5
+The Encouragement of Research, Development and Technological Innovation in the Industry Law, 5744-1984, fecha de acceso: enero 16, 2026, https://innovationisrael.org.il/wp-content/uploads/2025/01/RnD-Law.pdf
+The Encouragement of Industrial Research and Development Law, 5744-1984 (as updated on June, 2005), Israel, WIPO Lex, fecha de acceso: enero 16, 2026, https://www.wipo.int/wipolex/en/legislation/details/15407
+THE EIGHTH PROMOTION PLAN FOR TECHNOLOGY TRANSFER AND COMMERCIALIZATION | STIP Compass, fecha de acceso: enero 16, 2026, https://stip.oecd.org/stip/interactive-dashboards/policy-initiatives/2023%2Fdata%2FpolicyInitiatives%2F99995367
+TECHNOLOGY TRANSFER AND COMMERCIALIZATION PROMOTION ACT, fecha de acceso: enero 16, 2026, https://elaw.klri.re.kr/eng_service/lawView.do?hseq=31892&lang=ENG
+technology transfer and commercialization promotion act - Statutes of the Republic of Korea, fecha de acceso: enero 16, 2026, https://elaw.klri.re.kr/eng_service/lawViewContent.do?hseq=17737
+Ley 1923 de 2018 - Gestor Normativo - Función Pública, fecha de acceso: enero 16, 2026, https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=87545
+LEY 1923 DE 2018, fecha de acceso: enero 16, 2026, https://sidn.ramajudicial.gov.co/SIDN/NORMATIVA/TEXTOS_COMPLETOS/7_LEYES/LEYES%202018%20(1877-)/Ley%201923%20de%202018%20(Regula%20los%20proyectos%20de%20inversi%C3%B3n%20financiados%20con%20el%20Fondo%20del%20Sistema%20de%20Regal%C3%ADas).pdf
+Asignación para la Ciencia, Tecnología e Innovación - regaliasbogota.sdp.gov.co, fecha de acceso: enero 16, 2026, https://regaliasbogota.sdp.gov.co/es/bogota-en-el-sgr/asignaciones/fcti
+Ley 21591 - Biblioteca del Congreso Nacional de Chile, fecha de acceso: enero 16, 2026, https://nuevo.leychile.cl/navegar?idNorma=1194982&idParte=10448062&idVersion=2024-01-01
+LEY N.º 21.591 DE ROYALTY MINERO: UN AVANCE HACIA LA DESCENTRALIZACIÓN FISCAL EN CHILE Tesis para optar al grado de Licenciado, fecha de acceso: enero 16, 2026, https://repositorio.uchile.cl/bitstream/2250/205897/1/Ley-no-21591-de-Royalty-Minero-un-avance-hacia-la-descentralizacion-fiscal-en-Chile.pdf
+Royalty Minero - BCN, fecha de acceso: enero 16, 2026, https://www.bcn.cl/portal/leyfacil/recurso/royalty-minero
+Perú: sobre la propuesta para repartir el 40 % del canon minero a la población, fecha de acceso: enero 16, 2026, https://resourcegovernance.org/es/articles/peru-sobre-la-propuesta-para-repartir-el-40-del-canon-minero-la-poblacion
+A propósito del proyecto de ley de Canon Comunal - CooperAcción, fecha de acceso: enero 16, 2026, https://cooperaccion.org.pe/opinion/a-proposito-del-proyecto-de-ley-de-canon-comunal/
+Renforcer l'impact du Crédit d'impôt recherche | Cour des comptes, fecha de acceso: enero 16, 2026, https://www.ccomptes.fr/fr/plateformes-citoyennes/plateforme-evaluations-politique-publique/explorer-evaluations/renforcer
+L'impact du crédit d'impôt recherche - Avis de la CNEPI - Haut-commissariat à la stratégie et au plan, fecha de acceso: enero 16, 2026, https://www.strategie-plan.gouv.fr/files/files/Publications/Rapport/fs-cnepi-avis-impact-cir-06032019-final-web-correction-juillet2024.pdf
+Economic impact of the French Research Tax Credit (CIR) | Institut des politiques publiques, fecha de acceso: enero 16, 2026, https://www.ipp.eu/en/project/economic-impact-of-the-french-research-tax-credit-cir/
+R&D tax credit - Crédit d'Impôt Recherche (CIR) details - France | INNOTAX Portal - OECD, fecha de acceso: enero 16, 2026, https://stip.oecd.org/innotax/incentives/FRA1
+Tax Incentives for Technology Innovation in Brazil, fecha de acceso: enero 16, 2026, https://thebrazilbusiness.com/article/tax-incentives-for-technology-innovation-in-brazil
+Corporate Tax 2025 - Comparisons | Global Practice Guides | Chambers and Partners, fecha de acceso: enero 16, 2026, https://practiceguides.chambers.com/practice-guides/comparison/906/15776/24474-24475-24476-24477-24478-24479-24480-24481-24482
+Research & Development (R&D) Tax Measures - Singapore - IRAS, fecha de acceso: enero 16, 2026, https://www.iras.gov.sg/taxes/corporate-income-tax/income-deductions-for-companies/business-expenses/research-development-(r-d)-tax-measures
+INNOVATION PARTNERSHIP QUICK GUIDE FROM PRACTITIONERS - Internal Market, Industry, Entrepreneurship and SMEs - European Union, fecha de acceso: enero 16, 2026, https://single-market-economy.ec.europa.eu/system/files/2021-11/GROW_C2_innovation_partnership_210901.pdf
+State SBIR/STTR Resource Guide - SSTI, fecha de acceso: enero 16, 2026, https://ssti.org/state-sbirsttr-resource-guide
+Hacia una nueva era en las contrataciones públicas: integrando los principios de valor por dinero e innovación en el marco legal peruano - Revistas Universidad Externado de Colombia, fecha de acceso: enero 16, 2026, https://revistas.uexternado.edu.co/index.php/Deradm/article/view/10522/18966
+Special Tax Regime for University Professors and Researchers moving to Italy - Taxing.It, fecha de acceso: enero 16, 2026, https://taxing.it/special-tax-regime-for-university-professors-and-researchers-moving-to-italy/
+Spain: Changes on Beckham Law regime - Baker McKenzie InsightPlus, fecha de acceso: enero 16, 2026, https://insightplus.bakermckenzie.com/bm/tax/spain-changes-on-beckham-law-regime
+Act for the Recruitment and Employment of Foreign Professionals-Science & Technology, fecha de acceso: enero 16, 2026, https://foreigntalentact.ndc.gov.tw/en/Content_List.aspx?n=0DDF60C3BE8E44B5
+Act for the Recruitment and Employment of Foreign Professionals-Introduction, fecha de acceso: enero 16, 2026, https://foreigntalentact.ndc.gov.tw/en/Content_List.aspx?n=6501F7D3D7CCA8A0
+La política y las condiciones de repatriación de investigadores en México (1991-2017), fecha de acceso: enero 16, 2026, https://www.redalyc.org/journal/132/13271692009/html/
+The Bayh-Dole Act's Role in Stimulating University-Led Regional Economic Growth | ITIF, fecha de acceso: enero 16, 2026, https://itif.org/publications/2025/06/16/bayh-dole-acts-role-in-stimulating-university-led-regional-economic-growth/
+Patenting: the Bayh–Dole Act and its transformative impact on science innovation and commercialization - PMC - NIH, fecha de acceso: enero 16, 2026, https://pmc.ncbi.nlm.nih.gov/articles/PMC11152831/
+Ley 1838 de 2017 Congreso de la República de Colombia - Secretaría General de la Alcaldía Mayor de Bogotá, fecha de acceso: enero 16, 2026, https://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=69801
+Ley 1838 de julio 06 de 2017 | Ministerio de Educación Nacional, fecha de acceso: enero 16, 2026, https://www.mineducacion.gov.co/portal/normativa/Leyes/381640:Ley-1838-de-julio-06-de-2017
+x-Road – interoperability services - e-Estonia, fecha de acceso: enero 16, 2026, https://e-estonia.com/solutions/interoperability-services/x-road/
+X-Road: Estonia's digital backbone - Nortal, fecha de acceso: enero 16, 2026, https://nortal.com/insights/x-road-estonias-digital-backbone
+Public money, public code - Dries Buytaert, fecha de acceso: enero 16, 2026, https://dri.es/public-money-public-code
+Public Money? Public Code! - FSFE - Free Software Foundation Europe, fecha de acceso: enero 16, 2026, https://fsfe.org/activities/publiccode/publiccode.en.html
+Lei do Governo Digital: 6 pontos que você precisa saber, fecha de acceso: enero 16, 2026, https://aprova.com.br/blog/lei-do-governo-digital
+L14129 - Planalto, fecha de acceso: enero 16, 2026, https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14129.htm
+CHIPS and Science | NSF - U.S. National Science Foundation, fecha de acceso: enero 16, 2026, https://www.nsf.gov/chips
+Public Information Act - Riigi Teataja, fecha de acceso: enero 16, 2026, https://www.riigiteataja.ee/en/eli/529032019012/consolide
